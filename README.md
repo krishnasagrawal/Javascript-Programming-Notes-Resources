@@ -2,7 +2,9 @@
 
 In this repo, you will find all the JavaScript notes, resources, pdfs and Interview preparation materials.
 
-Feel free to contribute your notes as well.
+## How to Contribute
+If you have any additional resources related to Java programming language that you would like to share, feel free to create a pull request or open an issue.
+
 
 
 
